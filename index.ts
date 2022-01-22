@@ -1,4 +1,4 @@
-function greetDefault(name = "Anonymous") {
+export function greetDefault(name = "Anonymous") {
     console.log(`Hello, ${name}!`);
   }
    
